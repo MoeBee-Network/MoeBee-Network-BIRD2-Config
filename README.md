@@ -103,3 +103,5 @@ ISO-3166 numeric-3 country code
 ## Credits
 
 * Special thanks [KusakabeShi](https://github.com/KusakabeShi)
+* [Soha Jin](https://github.com/moesoha)
+* Razuritta
